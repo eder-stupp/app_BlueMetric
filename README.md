@@ -1,4 +1,4 @@
-# 📱 MeuAppAndroid
+# 📱 App BlueMetric
 
 Aplicativo Android desenvolvido em **Kotlin** no Android Studio.  
 Este app possui autenticação simples, armazenamento local e interface seguindo padrões de Material Design.
